@@ -5,8 +5,12 @@
 # Site
 title: 宏玄的博客
 subtitle:
-description:
+description: 宏玄的个人博客
 keywords:
+  - 宏玄
+  - 个人
+  - 技术
+  - 博客
 author: 宏玄
 language: zh-CN
 timezone:
@@ -80,5 +84,5 @@ theme: maupassant
 deploy:
   type: git
   repo: git@github.com:CaiHongxuan/caihongxuan.github.io.git
-  branch: gh-pages
+  branch: master
   ## message: [message]
